@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+.description {
+  display: flex;
+  margin-top: 50px;
+}
+
+.open-sans-country {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  font-size: 16px;
+  color: black;
+  letter-spacing: 3px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+
+}
+
+.container-card {
+  padding: 15px;
+  display: flex;
+}
+
+#image-loc {
+  height: 400px;
+  width: 300px;
+  border-radius: 5px;
+  margin-right: 40px;
+}
+
+.open-sans-view {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  font-size: 16px;
+  color: black;
+  letter-spacing: 1px;
+}
+
+a {
+  color: #918e9b;
+}
+
+#loc-logo {
+  width: 15px;
+  margin-right: 8px;
+}
+
+.open-sans-cardtitle {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  font-size: 42px;
+  color: black;
+  letter-spacing: 1px;
+  margin-bottom: 30px;
+}
+
+.open-sans-carddate {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  font-size: 16px;
+  color: black;
+  letter-spacing: 1px;
+}
+
+.open-sans-desc {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  font-size: 16px;
+  color: black;
+  letter-spacing: 1px;
+}
